@@ -120,7 +120,7 @@ This project successfully demonstrates how different machine learning techniques
 ---
 
 ## 👨‍💻 Author
-- **Name::** *MD SIFAT HOSEN*
+- **Name:** *MD SIFAT HOSEN*
 - **Course:** *DATA SCIENCE*
 - **Institute:** *AMERICAN INTERNATIONAL UNIVERSITY OF BANGLADESH*
 
